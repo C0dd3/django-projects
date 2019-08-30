@@ -1,0 +1,5 @@
+* Para cada funcionalidade dentro de um projeto o Django entende como um APP.
+
+Criando um APP no django:
+
+--> python manage.py startapp <nome_app>

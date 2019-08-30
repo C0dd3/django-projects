@@ -1,0 +1,5 @@
+Views:
+
+É uma função que faz uma requisição e entrega um resultado.
+
+--> Programção de base sólida para verificação de URL e produtos brutos em um Banco de Dados.

@@ -1,0 +1,8 @@
+1. Além disso é necessário cadastrar o models realizado no arquivo admin.py do app
+
+models.py on admin.py
+
+
+2. Quando se criar um app, deve-se adicionar na criação env onde fica o manage.py!
+
+app <Arquivo> on setting.py

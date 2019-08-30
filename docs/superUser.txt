@@ -1,0 +1,3 @@
+Criando usper usuário:
+
+--> python manage.py createsuperuser

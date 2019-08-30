@@ -1,0 +1,5 @@
+Iniciando server do django:
+
+--> python manage.py runserver : iniciar server no localhost 127.0.0.1:8000
+
+127.0.0.1:8000/admin : local de administração do nosso django

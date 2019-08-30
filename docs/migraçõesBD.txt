@@ -1,0 +1,3 @@
+Migrações com banco de dados:
+
+--> python manage.py migrate : migra tabelas no banco de dados.

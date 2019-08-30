@@ -1,0 +1,4 @@
+Criando uma virtualenv:
+
+--> virtualenv <-nome-> : Criando virtualenv
+--> Scripts\activate : ativar virtualenv

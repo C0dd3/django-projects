@@ -1,0 +1,10 @@
+Instalando django:
+
+--> pip install Django==2.0 or Django : Instala o Django
+--> pip freeze : mostrar todas as dependência instaladas.
+
+Criando projeto django:
+
+--> django-admin startproject <nome_projeto> : cria projeto django.
+
+Arquivo manage.py : local que será rodado a aplicação.

@@ -1,0 +1,4 @@
+Admin:
+
+. Users: adicionar usuário para manipular a aplicação.
+. Groups: adicionar funcionalidade em grupo distintos para cada user.

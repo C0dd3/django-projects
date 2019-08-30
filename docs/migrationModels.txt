@@ -1,0 +1,5 @@
+Realizar migrações:
+
+--> python manage.py makemigrations <nome_app> : migra as informações das models para o BD.
+
+--> python manage.py migrate : migra todos os dados no banco de dados.

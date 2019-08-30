@@ -1,0 +1,5 @@
+Criando rotas e URL:
+
+*Após a criação das views é necessário criar as rotas e urls dentro do arquivo urls.py
+
+views.py on path('/', <nome>) urls.py
