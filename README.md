@@ -1,3 +1,3 @@
 # Django Project
 
-Criação de CRUD para projeto do CREA.
+Modelo de CRUD para projeto
