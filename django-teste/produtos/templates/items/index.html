@@ -5,5 +5,12 @@
 {{ msg }}
 
 {{ produtos }}
+<ul>
+    {% for produto in produtos %}
+    <li>Nome: {{ produto.nome }}</li>
+    <li>Preço: {{ produto.preco }}</li>
+    <li>Descrição: {{ produto.descricao }}</li>
+    {% endfor %}
+</ul>
 
 {% endblock content %}
